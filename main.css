@@ -1,5 +1,71 @@
-﻿body
-{
-    font-family:微软雅黑;
-    /*I'm a note*/
+﻿body {
+    /*字体***********************/
+    font-family: 微软雅黑;
+    /*背景***********************/
+    background-color: rgb(255,222,227);
+}
+
+.chunk { /*body div*/
+    /*外边距*********************/
+    margin: 0 auto;
+    /*内边距*********************/
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    /*边框************************/
+    border: medium #808A87;
+    border-style: none double;
+    /*浮动***********************
+    float: left;*/
+    text-align: left;
+    background-color: white;
+}
+
+#menu {
+    /*外边距*********************/
+    margin-bottom: 10px;
+    /*外边距*********************/
+    list-style: none;
+    /*大小************************/
+    height: 48px;
+}
+
+    #menu ul li {
+        list-style: none;
+        position: absolute;
+    }
+
+#h {
+    left: 0;
+    width: 155px;
+}
+
+#b {
+    left: 155px;
+    width: 157px;
+}
+
+#s {
+    left: 312px;
+    width: 167px;
+}
+
+#d {
+    left: 479px;
+    width: 158px;
+}
+
+#x {
+    left: 637px;
+    width: 101px;
+}
+
+#ws {
+    left: 738px;
+    width: 185px;
+}
+
+#w {
+    left: 923px;
+    width: 177px;
 }
