@@ -18,10 +18,15 @@ p {
     padding: 0;
 }
 
+/*.chunk {
+    浮动
+    float:left;
+}*/
+
 .smallPhoto {
     /*大小*/
     height: 189px;
-    width: 217px;
+    width: 212px;
     /*浮动*/
     float: left;
     /*边框*/
@@ -31,7 +36,23 @@ p {
     /*内边距*/
     padding: 0;
     /*背景*/
-    background-size: 217px 189px;
+    background-size: 212px 189px;
+}
+
+.mediumPhoto {
+    /*大小*/
+    height: 189px;
+    width: 531px;
+    /*浮动*/
+    float: left;
+    /*边框*/
+    border: none;
+    /*外边距*/
+    margin: 0;
+    /*内边距*/
+    padding: 0;
+    /*背景*/
+    background-size: 531px 189px;
 }
 
 #largeSlidingPages {
@@ -55,13 +76,3 @@ p {
 #sitesTitle {
     font-size: 50px;
 }
-
-/*#s1 {
-    background-image: url(img/smallPhoto-1.jpg);
-}
-#s2 {
-    background-image: url(img/smallPhoto-2.jpg);
-}
-#s4 {
-    background-image: url(img/smallPhoto-3.jpg);
-}*/
