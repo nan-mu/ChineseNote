@@ -1,3 +1,71 @@
-﻿body
-{
+﻿body {
+    /*字体*/
+    font-family: 微软雅黑;
+}
+
+.chunk {
+    /*浮动*/
+    float: left;
+}
+
+.m_e {
+    /*大小*/
+    height: 100px;
+    width: 100px;
+    /*文本*/
+    text-align: center;
+    font-size: 20px;
+    line-height: 100px;
+    /*颜色*/
+    background-color: #E9E9E9;
+    /*边框*/
+    border-style: solid;
+    border-width: 1px;
+    border-color: #B2BDB8;
+    /*定位*/
+    transition-duration: 3s;
+}
+
+    .m_e:hover {
+        /*颜色*/
+        background-color: #B5BDB9;
+        /*边框*/
+        border-color: #B2BDB8;
+        /*层级*/
+        z-index: 0;
+        /*动画*/
+        transform: scale(1.2);
+        /*大小*/
+    }
+
+#ico {
+    top: 10px;
+}
+
+#news {
+    top: 112px;
+}
+
+#notes {
+    top: 214px;
+}
+
+#problem {
+    top: 316px;
+}
+
+#history {
+    top: 418px;
+}
+
+#set {
+    top: 520px;
+}
+
+.chunk iframe {
+    /*大小*/
+    height: 612px;
+    width: 804px;
+    /*边框*/
+    border: 0;
 }
