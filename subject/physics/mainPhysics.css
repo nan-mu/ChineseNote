@@ -1,0 +1,27 @@
+﻿body {
+    font-family: "微软雅黑";
+    font-size:20px;
+}
+.secondP {
+    text-indent: 1cm;/*首行缩进*/
+}
+.thirdP {
+    text-indent: 2cm; /*首行缩进*/
+}
+.part {
+    position: relative; /*相当定位*/
+    left: 30px;
+}
+p > span {
+    font-size: 25px;
+    font-weight: 900;
+}
+.slide {
+    text-decoration: none;
+    border-bottom: 2px solid #00ffff;
+    color: black;
+}
+#sichongcheng {
+    position: relative; /*相当定位*/
+    left: 35px;
+}
