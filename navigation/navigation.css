@@ -23,7 +23,7 @@
     border-width: 1px;
     border-color: #B2BDB8;
     /*定位*/
-    transition-duration: 3s;
+    transition-duration: 2s;
 }
 
     .m_e:hover {
@@ -40,6 +40,7 @@
 
 #ico {
     top: 10px;
+    background-color:white;
 }
 
 #news {
@@ -65,7 +66,7 @@
 .chunk iframe {
     /*大小*/
     height: 612px;
-    width: 804px;
+    width: 1088px;
     /*边框*/
     border: 0;
 }

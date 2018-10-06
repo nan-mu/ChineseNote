@@ -34,6 +34,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{AD7C6167-AE6
 		subject\physics\img\热容差.png = subject\physics\img\热容差.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "news", "news", "{1566BF8E-339C-4EFF-BCC4-128392E3764D}"
+	ProjectSection(SolutionItems) = preProject
+		news\news.css = news\news.css
+		news\news.html = news\news.html
+		news\news.js = news\news.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{5E5BB6AE-EE46-449F-B086-87BF31ED1972}"
+	ProjectSection(SolutionItems) = preProject
+		news\img\siteTitleBG.jpg = news\img\siteTitleBG.jpg
+		news\img\smallPhoto-1.jpg = news\img\smallPhoto-1.jpg
+		news\img\smallPhoto-10.jpg = news\img\smallPhoto-10.jpg
+		news\img\smallPhoto-11.jpg = news\img\smallPhoto-11.jpg
+		news\img\smallPhoto-12.jpg = news\img\smallPhoto-12.jpg
+		news\img\smallPhoto-13.jpg = news\img\smallPhoto-13.jpg
+		news\img\smallPhoto-14.jpg = news\img\smallPhoto-14.jpg
+		news\img\smallPhoto-15.jpg = news\img\smallPhoto-15.jpg
+		news\img\smallPhoto-16.jpg = news\img\smallPhoto-16.jpg
+		news\img\smallPhoto-17.jpg = news\img\smallPhoto-17.jpg
+		news\img\smallPhoto-2.jpg = news\img\smallPhoto-2.jpg
+		news\img\smallPhoto-3.jpg = news\img\smallPhoto-3.jpg
+		news\img\smallPhoto-4.jpg = news\img\smallPhoto-4.jpg
+		news\img\smallPhoto-5.jpg = news\img\smallPhoto-5.jpg
+		news\img\smallPhoto-6.jpg = news\img\smallPhoto-6.jpg
+		news\img\smallPhoto-7.jpg = news\img\smallPhoto-7.jpg
+		news\img\smallPhoto-8.jpg = news\img\smallPhoto-8.jpg
+		news\img\smallPhoto-9.jpg = news\img\smallPhoto-9.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,6 +71,7 @@ Global
 		{95860591-16A4-4032-A614-2E00305B4384} = {672C7E41-ABA2-4401-95A2-A5E41D0AB9C2}
 		{266FAFEF-4A78-4455-9297-3FD440FC2C36} = {672C7E41-ABA2-4401-95A2-A5E41D0AB9C2}
 		{AD7C6167-AE63-4605-BEAA-4F9E75D9B8A2} = {266FAFEF-4A78-4455-9297-3FD440FC2C36}
+		{5E5BB6AE-EE46-449F-B086-87BF31ED1972} = {1566BF8E-339C-4EFF-BCC4-128392E3764D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F839095C-F864-436D-8530-9AD6B36933C4}
