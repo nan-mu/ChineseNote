@@ -3,18 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F4F81261-316E-4E74-B613-8A631AE4EFAA}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chinese", "chinese", "{95860591-16A4-4032-A614-2E00305B4384}"
 	ProjectSection(SolutionItems) = preProject
-		chineseNote.css = chineseNote.css
-		chineseNote.html = chineseNote.html
+		subject\chinese\chineseNote.css = subject\chinese\chineseNote.css
+		subject\chinese\chineseNote.html = subject\chinese\chineseNote.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "navigationPage", "navigationPage", "{436E00B4-0A23-4856-871A-7FDB644D434E}"
 	ProjectSection(SolutionItems) = preProject
-		navigationPage.css = navigationPage.css
-		navigationPage.html = navigationPage.html
+		navigation\navigation.css = navigation\navigation.css
+		navigation\navigation.html = navigation\navigation.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "subject", "subject", "{672C7E41-ABA2-4401-95A2-A5E41D0AB9C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "physics", "physics", "{266FAFEF-4A78-4455-9297-3FD440FC2C36}"
+	ProjectSection(SolutionItems) = preProject
+		subject\physics\physicsNote.css = subject\physics\physicsNote.css
+		subject\physics\physicsNote.html = subject\physics\physicsNote.html
+		subject\physics\physicsNote.js = subject\physics\physicsNote.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "externalFile", "externalFile", "{C435CB05-DE1C-4740-809B-1C848793F41C}"
+	ProjectSection(SolutionItems) = preProject
+		externalFile\jquery-3.3.1.min.js = externalFile\jquery-3.3.1.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{AD7C6167-AE63-4605-BEAA-4F9E75D9B8A2}"
+	ProjectSection(SolutionItems) = preProject
+		subject\physics\img\热容差.png = subject\physics\img\热容差.png
 	EndProjectSection
 EndProject
 Global
@@ -22,8 +39,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{95860591-16A4-4032-A614-2E00305B4384} = {F4F81261-316E-4E74-B613-8A631AE4EFAA}
-		{436E00B4-0A23-4856-871A-7FDB644D434E} = {F4F81261-316E-4E74-B613-8A631AE4EFAA}
+		{95860591-16A4-4032-A614-2E00305B4384} = {672C7E41-ABA2-4401-95A2-A5E41D0AB9C2}
+		{266FAFEF-4A78-4455-9297-3FD440FC2C36} = {672C7E41-ABA2-4401-95A2-A5E41D0AB9C2}
+		{AD7C6167-AE63-4605-BEAA-4F9E75D9B8A2} = {266FAFEF-4A78-4455-9297-3FD440FC2C36}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F839095C-F864-436D-8530-9AD6B36933C4}
