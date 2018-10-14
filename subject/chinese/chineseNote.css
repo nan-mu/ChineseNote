@@ -5,6 +5,10 @@
     background-color: rgb(255,222,227);
 }
 
+ol {
+    list-style-type: lower-roman;
+}
+
 .chunk { /*body div*/
     /*外边距*********************/
     margin: 0 auto;
