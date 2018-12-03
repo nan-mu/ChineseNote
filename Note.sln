@@ -45,14 +45,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{5E5BB6AE-EE4
 	ProjectSection(SolutionItems) = preProject
 		news\img\siteTitleBG.jpg = news\img\siteTitleBG.jpg
 		news\img\smallPhoto-1.jpg = news\img\smallPhoto-1.jpg
-		news\img\smallPhoto-2.jpg = news\img\smallPhoto-2.jpg
-		news\img\smallPhoto-3.jpg = news\img\smallPhoto-3.jpg
-		news\img\smallPhoto-4.jpg = news\img\smallPhoto-4.jpg
-		news\img\smallPhoto-5.jpg = news\img\smallPhoto-5.jpg
-		news\img\smallPhoto-6.jpg = news\img\smallPhoto-6.jpg
-		news\img\smallPhoto-7.jpg = news\img\smallPhoto-7.jpg
-		news\img\smallPhoto-8.jpg = news\img\smallPhoto-8.jpg
-		news\img\smallPhoto-9.jpg = news\img\smallPhoto-9.jpg
 		news\img\smallPhoto-10.jpg = news\img\smallPhoto-10.jpg
 		news\img\smallPhoto-11.jpg = news\img\smallPhoto-11.jpg
 		news\img\smallPhoto-12.jpg = news\img\smallPhoto-12.jpg
@@ -61,6 +53,389 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{5E5BB6AE-EE4
 		news\img\smallPhoto-15.jpg = news\img\smallPhoto-15.jpg
 		news\img\smallPhoto-16.jpg = news\img\smallPhoto-16.jpg
 		news\img\smallPhoto-17.jpg = news\img\smallPhoto-17.jpg
+		news\img\smallPhoto-2.jpg = news\img\smallPhoto-2.jpg
+		news\img\smallPhoto-3.jpg = news\img\smallPhoto-3.jpg
+		news\img\smallPhoto-4.jpg = news\img\smallPhoto-4.jpg
+		news\img\smallPhoto-5.jpg = news\img\smallPhoto-5.jpg
+		news\img\smallPhoto-6.jpg = news\img\smallPhoto-6.jpg
+		news\img\smallPhoto-7.jpg = news\img\smallPhoto-7.jpg
+		news\img\smallPhoto-8.jpg = news\img\smallPhoto-8.jpg
+		news\img\smallPhoto-9.jpg = news\img\smallPhoto-9.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "material", "material", "{84B57314-56D0-4E01-AE5F-60B00BAAFAEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cpts_1354_cae", "cpts_1354_cae", "{043F4498-44B7-41E9-B29F-7636135DA0FE}"
+	ProjectSection(SolutionItems) = preProject
+		material\cpts_1354_cae\3000套网站模板免费拥有.url = material\cpts_1354_cae\3000套网站模板免费拥有.url
+		material\cpts_1354_cae\about.html = material\cpts_1354_cae\about.html
+		material\cpts_1354_cae\blog-listing.html = material\cpts_1354_cae\blog-listing.html
+		material\cpts_1354_cae\contact-us.html = material\cpts_1354_cae\contact-us.html
+		material\cpts_1354_cae\faq.html = material\cpts_1354_cae\faq.html
+		material\cpts_1354_cae\index.html = material\cpts_1354_cae\index.html
+		material\cpts_1354_cae\找免费网站模板就上【模板之家】cssMoban.com.url = material\cpts_1354_cae\找免费网站模板就上【模板之家】cssMoban.com.url
+		material\cpts_1354_cae\说明.txt = material\cpts_1354_cae\说明.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{CB6CF165-B511-47DD-8915-BC8B9361ECF8}"
+	ProjectSection(SolutionItems) = preProject
+		material\cpts_1354_cae\css\animsition.min.css = material\cpts_1354_cae\css\animsition.min.css
+		material\cpts_1354_cae\css\bootstrap.min.css = material\cpts_1354_cae\css\bootstrap.min.css
+		material\cpts_1354_cae\css\font-awesome.min.css = material\cpts_1354_cae\css\font-awesome.min.css
+		material\cpts_1354_cae\css\fontello.css = material\cpts_1354_cae\css\fontello.css
+		material\cpts_1354_cae\css\owl.carousel.css = material\cpts_1354_cae\css\owl.carousel.css
+		material\cpts_1354_cae\css\owl.theme.css = material\cpts_1354_cae\css\owl.theme.css
+		material\cpts_1354_cae\css\style.css = material\cpts_1354_cae\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{28CBAC43-903A-4EF0-B297-4DE923366EF8}"
+	ProjectSection(SolutionItems) = preProject
+		material\cpts_1354_cae\fonts\fontawesome-webfont.eot = material\cpts_1354_cae\fonts\fontawesome-webfont.eot
+		material\cpts_1354_cae\fonts\fontawesome-webfont.svg = material\cpts_1354_cae\fonts\fontawesome-webfont.svg
+		material\cpts_1354_cae\fonts\fontawesome-webfont.ttf = material\cpts_1354_cae\fonts\fontawesome-webfont.ttf
+		material\cpts_1354_cae\fonts\fontawesome-webfont.woff = material\cpts_1354_cae\fonts\fontawesome-webfont.woff
+		material\cpts_1354_cae\fonts\FontAwesome.otf = material\cpts_1354_cae\fonts\FontAwesome.otf
+		material\cpts_1354_cae\fonts\fontello.eot = material\cpts_1354_cae\fonts\fontello.eot
+		material\cpts_1354_cae\fonts\fontello.ttf = material\cpts_1354_cae\fonts\fontello.ttf
+		material\cpts_1354_cae\fonts\fontello.woff = material\cpts_1354_cae\fonts\fontello.woff
+		material\cpts_1354_cae\fonts\fontello.woff2 = material\cpts_1354_cae\fonts\fontello.woff2
+		material\cpts_1354_cae\fonts\glyphicons-halflings-regular.eot = material\cpts_1354_cae\fonts\glyphicons-halflings-regular.eot
+		material\cpts_1354_cae\fonts\glyphicons-halflings-regular.svg = material\cpts_1354_cae\fonts\glyphicons-halflings-regular.svg
+		material\cpts_1354_cae\fonts\glyphicons-halflings-regular.ttf = material\cpts_1354_cae\fonts\glyphicons-halflings-regular.ttf
+		material\cpts_1354_cae\fonts\glyphicons-halflings-regular.woff = material\cpts_1354_cae\fonts\glyphicons-halflings-regular.woff
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{131A4760-281B-44F8-8756-BB7F7868F05A}"
+	ProjectSection(SolutionItems) = preProject
+		material\cpts_1354_cae\images\blog-img-1.jpg = material\cpts_1354_cae\images\blog-img-1.jpg
+		material\cpts_1354_cae\images\blog-img-2.jpg = material\cpts_1354_cae\images\blog-img-2.jpg
+		material\cpts_1354_cae\images\blog-img.jpg = material\cpts_1354_cae\images\blog-img.jpg
+		material\cpts_1354_cae\images\blog-post-1.jpg = material\cpts_1354_cae\images\blog-post-1.jpg
+		material\cpts_1354_cae\images\blog-post-2.jpg = material\cpts_1354_cae\images\blog-post-2.jpg
+		material\cpts_1354_cae\images\blog-post-3.jpg = material\cpts_1354_cae\images\blog-post-3.jpg
+		material\cpts_1354_cae\images\blog-post-4.jpg = material\cpts_1354_cae\images\blog-post-4.jpg
+		material\cpts_1354_cae\images\car.svg = material\cpts_1354_cae\images\car.svg
+		material\cpts_1354_cae\images\cd-top-arrow.svg = material\cpts_1354_cae\images\cd-top-arrow.svg
+		material\cpts_1354_cae\images\credit-card.svg = material\cpts_1354_cae\images\credit-card.svg
+		material\cpts_1354_cae\images\cta-img.jpg = material\cpts_1354_cae\images\cta-img.jpg
+		material\cpts_1354_cae\images\ft-logo.png = material\cpts_1354_cae\images\ft-logo.png
+		material\cpts_1354_cae\images\loan.svg = material\cpts_1354_cae\images\loan.svg
+		material\cpts_1354_cae\images\logo-1.jpg = material\cpts_1354_cae\images\logo-1.jpg
+		material\cpts_1354_cae\images\logo-2.jpg = material\cpts_1354_cae\images\logo-2.jpg
+		material\cpts_1354_cae\images\logo-3.jpg = material\cpts_1354_cae\images\logo-3.jpg
+		material\cpts_1354_cae\images\logo-4.jpg = material\cpts_1354_cae\images\logo-4.jpg
+		material\cpts_1354_cae\images\logo-5.jpg = material\cpts_1354_cae\images\logo-5.jpg
+		material\cpts_1354_cae\images\logo.png = material\cpts_1354_cae\images\logo.png
+		material\cpts_1354_cae\images\mortgage.svg = material\cpts_1354_cae\images\mortgage.svg
+		material\cpts_1354_cae\images\page-header.jpg = material\cpts_1354_cae\images\page-header.jpg
+		material\cpts_1354_cae\images\piggy-bank.svg = material\cpts_1354_cae\images\piggy-bank.svg
+		material\cpts_1354_cae\images\recent-img-1.jpg = material\cpts_1354_cae\images\recent-img-1.jpg
+		material\cpts_1354_cae\images\recent-img-2.jpg = material\cpts_1354_cae\images\recent-img-2.jpg
+		material\cpts_1354_cae\images\recent-img-3.jpg = material\cpts_1354_cae\images\recent-img-3.jpg
+		material\cpts_1354_cae\images\slider-1.jpg = material\cpts_1354_cae\images\slider-1.jpg
+		material\cpts_1354_cae\images\slider-2.jpg = material\cpts_1354_cae\images\slider-2.jpg
+		material\cpts_1354_cae\images\slider-3.jpg = material\cpts_1354_cae\images\slider-3.jpg
+		material\cpts_1354_cae\images\testimonial-img-1.jpg = material\cpts_1354_cae\images\testimonial-img-1.jpg
+		material\cpts_1354_cae\images\testimonial-img-2.jpg = material\cpts_1354_cae\images\testimonial-img-2.jpg
+		material\cpts_1354_cae\images\testimonial-img.jpg = material\cpts_1354_cae\images\testimonial-img.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{AA37B9C1-A597-42E7-980C-1EBEC6A2326C}"
+	ProjectSection(SolutionItems) = preProject
+		material\cpts_1354_cae\js\accordion.js = material\cpts_1354_cae\js\accordion.js
+		material\cpts_1354_cae\js\animsition-script.js = material\cpts_1354_cae\js\animsition-script.js
+		material\cpts_1354_cae\js\animsition.js = material\cpts_1354_cae\js\animsition.js
+		material\cpts_1354_cae\js\back-to-top.js = material\cpts_1354_cae\js\back-to-top.js
+		material\cpts_1354_cae\js\blog-carousel.js = material\cpts_1354_cae\js\blog-carousel.js
+		material\cpts_1354_cae\js\bootstrap.min.js = material\cpts_1354_cae\js\bootstrap.min.js
+		material\cpts_1354_cae\js\jquery.min.js = material\cpts_1354_cae\js\jquery.min.js
+		material\cpts_1354_cae\js\jquery.sticky.js = material\cpts_1354_cae\js\jquery.sticky.js
+		material\cpts_1354_cae\js\menumaker.js = material\cpts_1354_cae\js\menumaker.js
+		material\cpts_1354_cae\js\owl.carousel.min.js = material\cpts_1354_cae\js\owl.carousel.min.js
+		material\cpts_1354_cae\js\service-carousel.js = material\cpts_1354_cae\js\service-carousel.js
+		material\cpts_1354_cae\js\slider-carousel.js = material\cpts_1354_cae\js\slider-carousel.js
+		material\cpts_1354_cae\js\sticky-header.js = material\cpts_1354_cae\js\sticky-header.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "twts_112_punch_brave", "twts_112_punch_brave", "{C2F7F802-84F2-48EC-9148-360487EBEFF2}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\3000套网站模板免费拥有.url = material\twts_112_punch_brave\3000套网站模板免费拥有.url
+		material\twts_112_punch_brave\blog_overview.html = material\twts_112_punch_brave\blog_overview.html
+		material\twts_112_punch_brave\blog_overview_full.html = material\twts_112_punch_brave\blog_overview_full.html
+		material\twts_112_punch_brave\blog_single.html = material\twts_112_punch_brave\blog_single.html
+		material\twts_112_punch_brave\blog_single_full.html = material\twts_112_punch_brave\blog_single_full.html
+		material\twts_112_punch_brave\contact.html = material\twts_112_punch_brave\contact.html
+		material\twts_112_punch_brave\index.html = material\twts_112_punch_brave\index.html
+		material\twts_112_punch_brave\index_alternative.html = material\twts_112_punch_brave\index_alternative.html
+		material\twts_112_punch_brave\index_noslider.html = material\twts_112_punch_brave\index_noslider.html
+		material\twts_112_punch_brave\page_about.html = material\twts_112_punch_brave\page_about.html
+		material\twts_112_punch_brave\page_clients.html = material\twts_112_punch_brave\page_clients.html
+		material\twts_112_punch_brave\page_faq.html = material\twts_112_punch_brave\page_faq.html
+		material\twts_112_punch_brave\page_full.html = material\twts_112_punch_brave\page_full.html
+		material\twts_112_punch_brave\page_pricing.html = material\twts_112_punch_brave\page_pricing.html
+		material\twts_112_punch_brave\page_sidebar_left.html = material\twts_112_punch_brave\page_sidebar_left.html
+		material\twts_112_punch_brave\page_sidebar_right.html = material\twts_112_punch_brave\page_sidebar_right.html
+		material\twts_112_punch_brave\portfolio_1column_full.html = material\twts_112_punch_brave\portfolio_1column_full.html
+		material\twts_112_punch_brave\portfolio_4column.html = material\twts_112_punch_brave\portfolio_4column.html
+		material\twts_112_punch_brave\portfolio_single.html = material\twts_112_punch_brave\portfolio_single.html
+		material\twts_112_punch_brave\找免费网站模板就上【模板之家】cssMoban.com.url = material\twts_112_punch_brave\找免费网站模板就上【模板之家】cssMoban.com.url
+		material\twts_112_punch_brave\说明.txt = material\twts_112_punch_brave\说明.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{7D4C75C3-01F9-4085-BE46-C13C3FABF3D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{1865D914-7043-47A2-800D-36B2FA4856EB}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\apple-touch-icon-114x114.png = material\twts_112_punch_brave\images\apple-touch-icon-114x114.png
+		material\twts_112_punch_brave\images\apple-touch-icon-72x72.png = material\twts_112_punch_brave\images\apple-touch-icon-72x72.png
+		material\twts_112_punch_brave\images\apple-touch-icon.png = material\twts_112_punch_brave\images\apple-touch-icon.png
+		material\twts_112_punch_brave\images\banner\banner1.jpg = material\twts_112_punch_brave\images\banner\banner1.jpg
+		material\twts_112_punch_brave\images\banner\banner2.jpg = material\twts_112_punch_brave\images\banner\banner2.jpg
+		material\twts_112_punch_brave\images\banner\banner3.jpg = material\twts_112_punch_brave\images\banner\banner3.jpg
+		material\twts_112_punch_brave\images\favicon.ico = material\twts_112_punch_brave\images\favicon.ico
+		material\twts_112_punch_brave\images\favicon.png = material\twts_112_punch_brave\images\favicon.png
+		material\twts_112_punch_brave\images\lightboxlarge.jpg = material\twts_112_punch_brave\images\lightboxlarge.jpg
+		material\twts_112_punch_brave\images\lightboxthumb.jpg = material\twts_112_punch_brave\images\lightboxthumb.jpg
+		material\twts_112_punch_brave\images\logo.png = material\twts_112_punch_brave\images\logo.png
+		material\twts_112_punch_brave\images\wpversionad.jpg = material\twts_112_punch_brave\images\wpversionad.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{D8E3D71A-DD23-4B78-9842-050ADFBA71EE}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\js\ddsmoothmenu.js = material\twts_112_punch_brave\js\ddsmoothmenu.js
+		material\twts_112_punch_brave\js\flashmediaelement.swf = material\twts_112_punch_brave\js\flashmediaelement.swf
+		material\twts_112_punch_brave\js\jquery-1.7.min.js = material\twts_112_punch_brave\js\jquery-1.7.min.js
+		material\twts_112_punch_brave\js\jquery.animate-colors-min.js = material\twts_112_punch_brave\js\jquery.animate-colors-min.js
+		material\twts_112_punch_brave\js\jquery.cssAnimate.mini.js = material\twts_112_punch_brave\js\jquery.cssAnimate.mini.js
+		material\twts_112_punch_brave\js\jquery.easing.1.3.js = material\twts_112_punch_brave\js\jquery.easing.1.3.js
+		material\twts_112_punch_brave\js\jquery.fitvids.js = material\twts_112_punch_brave\js\jquery.fitvids.js
+		material\twts_112_punch_brave\js\jquery.flexslider-min.js = material\twts_112_punch_brave\js\jquery.flexslider-min.js
+		material\twts_112_punch_brave\js\jquery.prettyPhoto.js = material\twts_112_punch_brave\js\jquery.prettyPhoto.js
+		material\twts_112_punch_brave\js\mediaelement-and-player.min.js = material\twts_112_punch_brave\js\mediaelement-and-player.min.js
+		material\twts_112_punch_brave\js\screen.js = material\twts_112_punch_brave\js\screen.js
+		material\twts_112_punch_brave\js\silverlightmediaelement.xap = material\twts_112_punch_brave\js\silverlightmediaelement.xap
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tiles", "tiles", "{EABBACD6-ECC9-4422-8214-E54DCFC883BC}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\tiles\arrow_left.png = material\twts_112_punch_brave\images\tiles\arrow_left.png
+		material\twts_112_punch_brave\images\tiles\arrow_left_large.png = material\twts_112_punch_brave\images\tiles\arrow_left_large.png
+		material\twts_112_punch_brave\images\tiles\arrow_left_small.png = material\twts_112_punch_brave\images\tiles\arrow_left_small.png
+		material\twts_112_punch_brave\images\tiles\arrow_right.png = material\twts_112_punch_brave\images\tiles\arrow_right.png
+		material\twts_112_punch_brave\images\tiles\arrow_right_large.png = material\twts_112_punch_brave\images\tiles\arrow_right_large.png
+		material\twts_112_punch_brave\images\tiles\arrow_right_small.png = material\twts_112_punch_brave\images\tiles\arrow_right_small.png
+		material\twts_112_punch_brave\images\tiles\attention.png = material\twts_112_punch_brave\images\tiles\attention.png
+		material\twts_112_punch_brave\images\tiles\background_tile1.gif = material\twts_112_punch_brave\images\tiles\background_tile1.gif
+		material\twts_112_punch_brave\images\tiles\background_tile2.gif = material\twts_112_punch_brave\images\tiles\background_tile2.gif
+		material\twts_112_punch_brave\images\tiles\background_tile3.gif = material\twts_112_punch_brave\images\tiles\background_tile3.gif
+		material\twts_112_punch_brave\images\tiles\black20.png = material\twts_112_punch_brave\images\tiles\black20.png
+		material\twts_112_punch_brave\images\tiles\button_bubble.png = material\twts_112_punch_brave\images\tiles\button_bubble.png
+		material\twts_112_punch_brave\images\tiles\button_doc.png = material\twts_112_punch_brave\images\tiles\button_doc.png
+		material\twts_112_punch_brave\images\tiles\button_plus.png = material\twts_112_punch_brave\images\tiles\button_plus.png
+		material\twts_112_punch_brave\images\tiles\captionbg.png = material\twts_112_punch_brave\images\tiles\captionbg.png
+		material\twts_112_punch_brave\images\tiles\captionbg_dark.png = material\twts_112_punch_brave\images\tiles\captionbg_dark.png
+		material\twts_112_punch_brave\images\tiles\check.png = material\twts_112_punch_brave\images\tiles\check.png
+		material\twts_112_punch_brave\images\tiles\comments.png = material\twts_112_punch_brave\images\tiles\comments.png
+		material\twts_112_punch_brave\images\tiles\cross.png = material\twts_112_punch_brave\images\tiles\cross.png
+		material\twts_112_punch_brave\images\tiles\expand.png = material\twts_112_punch_brave\images\tiles\expand.png
+		material\twts_112_punch_brave\images\tiles\footerclose.png = material\twts_112_punch_brave\images\tiles\footerclose.png
+		material\twts_112_punch_brave\images\tiles\footeropen.png = material\twts_112_punch_brave\images\tiles\footeropen.png
+		material\twts_112_punch_brave\images\tiles\headlinefront_footer.png = material\twts_112_punch_brave\images\tiles\headlinefront_footer.png
+		material\twts_112_punch_brave\images\tiles\headlinefront_sidebar.png = material\twts_112_punch_brave\images\tiles\headlinefront_sidebar.png
+		material\twts_112_punch_brave\images\tiles\linegrid.png = material\twts_112_punch_brave\images\tiles\linegrid.png
+		material\twts_112_punch_brave\images\tiles\navselect.gif = material\twts_112_punch_brave\images\tiles\navselect.gif
+		material\twts_112_punch_brave\images\tiles\preloader.gif = material\twts_112_punch_brave\images\tiles\preloader.gif
+		material\twts_112_punch_brave\images\tiles\remove.png = material\twts_112_punch_brave\images\tiles\remove.png
+		material\twts_112_punch_brave\images\tiles\submenu_plus.png = material\twts_112_punch_brave\images\tiles\submenu_plus.png
+		material\twts_112_punch_brave\images\tiles\submenu_transparency.png = material\twts_112_punch_brave\images\tiles\submenu_transparency.png
+		material\twts_112_punch_brave\images\tiles\thumbshadow.png = material\twts_112_punch_brave\images\tiles\thumbshadow.png
+		material\twts_112_punch_brave\images\tiles\wood.jpg = material\twts_112_punch_brave\images\tiles\wood.jpg
+		material\twts_112_punch_brave\images\tiles\wood.png = material\twts_112_punch_brave\images\tiles\wood.png
+		material\twts_112_punch_brave\images\tiles\wood2.jpg = material\twts_112_punch_brave\images\tiles\wood2.jpg
+		material\twts_112_punch_brave\images\tiles\wood2.png = material\twts_112_punch_brave\images\tiles\wood2.png
+		material\twts_112_punch_brave\images\tiles\wood3.png = material\twts_112_punch_brave\images\tiles\wood3.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "thumbs", "thumbs", "{0E5D8DAB-D0CE-4E48-8B11-6719D7498242}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\thumbs\blogpost1.jpg = material\twts_112_punch_brave\images\thumbs\blogpost1.jpg
+		material\twts_112_punch_brave\images\thumbs\from_blog1.jpg = material\twts_112_punch_brave\images\thumbs\from_blog1.jpg
+		material\twts_112_punch_brave\images\thumbs\from_blog2.jpg = material\twts_112_punch_brave\images\thumbs\from_blog2.jpg
+		material\twts_112_punch_brave\images\thumbs\gravatar.jpg = material\twts_112_punch_brave\images\thumbs\gravatar.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser1.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser1.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser10.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser10.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser11.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser11.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser12.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser12.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser2.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser2.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser3.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser3.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser4.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser4.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser5.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser5.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser6.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser6.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser7.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser7.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser8.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser8.jpg
+		material\twts_112_punch_brave\images\thumbs\home_teaser9.jpg = material\twts_112_punch_brave\images\thumbs\home_teaser9.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_blog1.jpg = material\twts_112_punch_brave\images\thumbs\pop_blog1.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_blog2.jpg = material\twts_112_punch_brave\images\thumbs\pop_blog2.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_blog3.jpg = material\twts_112_punch_brave\images\thumbs\pop_blog3.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_blog4.jpg = material\twts_112_punch_brave\images\thumbs\pop_blog4.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_folio1.jpg = material\twts_112_punch_brave\images\thumbs\pop_folio1.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_folio2.jpg = material\twts_112_punch_brave\images\thumbs\pop_folio2.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_folio3.jpg = material\twts_112_punch_brave\images\thumbs\pop_folio3.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_folio4.jpg = material\twts_112_punch_brave\images\thumbs\pop_folio4.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_folio5.jpg = material\twts_112_punch_brave\images\thumbs\pop_folio5.jpg
+		material\twts_112_punch_brave\images\thumbs\pop_folio6.jpg = material\twts_112_punch_brave\images\thumbs\pop_folio6.jpg
+		material\twts_112_punch_brave\images\thumbs\slider1.jpg = material\twts_112_punch_brave\images\thumbs\slider1.jpg
+		material\twts_112_punch_brave\images\thumbs\slider2.jpg = material\twts_112_punch_brave\images\thumbs\slider2.jpg
+		material\twts_112_punch_brave\images\thumbs\slider3.jpg = material\twts_112_punch_brave\images\thumbs\slider3.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "team", "team", "{D9D9358C-4218-4549-A6E2-C8A36E743E48}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\team\team1.jpg = material\twts_112_punch_brave\images\team\team1.jpg
+		material\twts_112_punch_brave\images\team\team2.jpg = material\twts_112_punch_brave\images\team\team2.jpg
+		material\twts_112_punch_brave\images\team\team3.jpg = material\twts_112_punch_brave\images\team\team3.jpg
+		material\twts_112_punch_brave\images\team\team4.jpg = material\twts_112_punch_brave\images\team\team4.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "social", "social", "{E14C6CF4-2C87-4CCB-90B4-5A8864321803}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\social\social_facebook.png = material\twts_112_punch_brave\images\social\social_facebook.png
+		material\twts_112_punch_brave\images\social\social_flickr.png = material\twts_112_punch_brave\images\social\social_flickr.png
+		material\twts_112_punch_brave\images\social\social_googleplus.png = material\twts_112_punch_brave\images\social\social_googleplus.png
+		material\twts_112_punch_brave\images\social\social_linkedin.png = material\twts_112_punch_brave\images\social\social_linkedin.png
+		material\twts_112_punch_brave\images\social\social_pinterest.png = material\twts_112_punch_brave\images\social\social_pinterest.png
+		material\twts_112_punch_brave\images\social\social_rss.png = material\twts_112_punch_brave\images\social\social_rss.png
+		material\twts_112_punch_brave\images\social\social_twitter.png = material\twts_112_punch_brave\images\social\social_twitter.png
+		material\twts_112_punch_brave\images\social\social_vimeo.png = material\twts_112_punch_brave\images\social\social_vimeo.png
+		material\twts_112_punch_brave\images\social\social_youtube.png = material\twts_112_punch_brave\images\social\social_youtube.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "prettyPhoto", "prettyPhoto", "{76EE7787-C89A-4722-947A-044647C07848}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dark_rounded", "dark_rounded", "{0D027DA1-8E17-438B-8510-EC6369285A87}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\btnNext.png = material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\btnNext.png
+		material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\btnPrevious.png = material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\btnPrevious.png
+		material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\contentPattern.png = material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\contentPattern.png
+		material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\default_thumbnail.gif = material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\default_thumbnail.gif
+		material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\loader.gif = material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\loader.gif
+		material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\sprite.png = material\twts_112_punch_brave\images\prettyPhoto\dark_rounded\sprite.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dark_square", "dark_square", "{37374D0C-5EB0-424E-B3CC-ED2BA678EDBC}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\prettyPhoto\dark_square\btnNext.png = material\twts_112_punch_brave\images\prettyPhoto\dark_square\btnNext.png
+		material\twts_112_punch_brave\images\prettyPhoto\dark_square\btnPrevious.png = material\twts_112_punch_brave\images\prettyPhoto\dark_square\btnPrevious.png
+		material\twts_112_punch_brave\images\prettyPhoto\dark_square\contentPattern.png = material\twts_112_punch_brave\images\prettyPhoto\dark_square\contentPattern.png
+		material\twts_112_punch_brave\images\prettyPhoto\dark_square\default_thumbnail.gif = material\twts_112_punch_brave\images\prettyPhoto\dark_square\default_thumbnail.gif
+		material\twts_112_punch_brave\images\prettyPhoto\dark_square\loader.gif = material\twts_112_punch_brave\images\prettyPhoto\dark_square\loader.gif
+		material\twts_112_punch_brave\images\prettyPhoto\dark_square\sprite.png = material\twts_112_punch_brave\images\prettyPhoto\dark_square\sprite.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "default", "default", "{9FEDAF42-DD87-49CA-8C49-5339E8FEE167}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\prettyPhoto\default\default_thumb.png = material\twts_112_punch_brave\images\prettyPhoto\default\default_thumb.png
+		material\twts_112_punch_brave\images\prettyPhoto\default\loader.gif = material\twts_112_punch_brave\images\prettyPhoto\default\loader.gif
+		material\twts_112_punch_brave\images\prettyPhoto\default\sprite.png = material\twts_112_punch_brave\images\prettyPhoto\default\sprite.png
+		material\twts_112_punch_brave\images\prettyPhoto\default\sprite_next.png = material\twts_112_punch_brave\images\prettyPhoto\default\sprite_next.png
+		material\twts_112_punch_brave\images\prettyPhoto\default\sprite_prev.png = material\twts_112_punch_brave\images\prettyPhoto\default\sprite_prev.png
+		material\twts_112_punch_brave\images\prettyPhoto\default\sprite_x.png = material\twts_112_punch_brave\images\prettyPhoto\default\sprite_x.png
+		material\twts_112_punch_brave\images\prettyPhoto\default\sprite_y.png = material\twts_112_punch_brave\images\prettyPhoto\default\sprite_y.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "facebook", "facebook", "{D17E61D4-3E5F-4148-AC85-DFA9255FDB50}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\prettyPhoto\facebook\btnNext.png = material\twts_112_punch_brave\images\prettyPhoto\facebook\btnNext.png
+		material\twts_112_punch_brave\images\prettyPhoto\facebook\btnPrevious.png = material\twts_112_punch_brave\images\prettyPhoto\facebook\btnPrevious.png
+		material\twts_112_punch_brave\images\prettyPhoto\facebook\contentPatternBottom.png = material\twts_112_punch_brave\images\prettyPhoto\facebook\contentPatternBottom.png
+		material\twts_112_punch_brave\images\prettyPhoto\facebook\contentPatternLeft.png = material\twts_112_punch_brave\images\prettyPhoto\facebook\contentPatternLeft.png
+		material\twts_112_punch_brave\images\prettyPhoto\facebook\contentPatternRight.png = material\twts_112_punch_brave\images\prettyPhoto\facebook\contentPatternRight.png
+		material\twts_112_punch_brave\images\prettyPhoto\facebook\contentPatternTop.png = material\twts_112_punch_brave\images\prettyPhoto\facebook\contentPatternTop.png
+		material\twts_112_punch_brave\images\prettyPhoto\facebook\default_thumbnail.gif = material\twts_112_punch_brave\images\prettyPhoto\facebook\default_thumbnail.gif
+		material\twts_112_punch_brave\images\prettyPhoto\facebook\loader.gif = material\twts_112_punch_brave\images\prettyPhoto\facebook\loader.gif
+		material\twts_112_punch_brave\images\prettyPhoto\facebook\sprite.png = material\twts_112_punch_brave\images\prettyPhoto\facebook\sprite.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "light_rounded", "light_rounded", "{6DFEA8BF-2611-4979-B817-8EB9ED20E6D3}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\prettyPhoto\light_rounded\btnNext.png = material\twts_112_punch_brave\images\prettyPhoto\light_rounded\btnNext.png
+		material\twts_112_punch_brave\images\prettyPhoto\light_rounded\btnPrevious.png = material\twts_112_punch_brave\images\prettyPhoto\light_rounded\btnPrevious.png
+		material\twts_112_punch_brave\images\prettyPhoto\light_rounded\default_thumbnail.gif = material\twts_112_punch_brave\images\prettyPhoto\light_rounded\default_thumbnail.gif
+		material\twts_112_punch_brave\images\prettyPhoto\light_rounded\loader.gif = material\twts_112_punch_brave\images\prettyPhoto\light_rounded\loader.gif
+		material\twts_112_punch_brave\images\prettyPhoto\light_rounded\sprite.png = material\twts_112_punch_brave\images\prettyPhoto\light_rounded\sprite.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "light_square", "light_square", "{BBDBC5AB-73A2-4273-938D-360D4F503464}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\prettyPhoto\light_square\btnNext.png = material\twts_112_punch_brave\images\prettyPhoto\light_square\btnNext.png
+		material\twts_112_punch_brave\images\prettyPhoto\light_square\btnPrevious.png = material\twts_112_punch_brave\images\prettyPhoto\light_square\btnPrevious.png
+		material\twts_112_punch_brave\images\prettyPhoto\light_square\default_thumbnail.gif = material\twts_112_punch_brave\images\prettyPhoto\light_square\default_thumbnail.gif
+		material\twts_112_punch_brave\images\prettyPhoto\light_square\loader.gif = material\twts_112_punch_brave\images\prettyPhoto\light_square\loader.gif
+		material\twts_112_punch_brave\images\prettyPhoto\light_square\sprite.png = material\twts_112_punch_brave\images\prettyPhoto\light_square\sprite.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "portfolio", "portfolio", "{B9BCB6FF-CE96-4085-ABD4-43FFA9FF7144}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\portfolio\portfolio1.jpg = material\twts_112_punch_brave\images\portfolio\portfolio1.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio10.jpg = material\twts_112_punch_brave\images\portfolio\portfolio10.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio11.jpg = material\twts_112_punch_brave\images\portfolio\portfolio11.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio12.jpg = material\twts_112_punch_brave\images\portfolio\portfolio12.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio1_slide.jpg = material\twts_112_punch_brave\images\portfolio\portfolio1_slide.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio2.jpg = material\twts_112_punch_brave\images\portfolio\portfolio2.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio2_slide.jpg = material\twts_112_punch_brave\images\portfolio\portfolio2_slide.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio3.jpg = material\twts_112_punch_brave\images\portfolio\portfolio3.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio4.jpg = material\twts_112_punch_brave\images\portfolio\portfolio4.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio5.jpg = material\twts_112_punch_brave\images\portfolio\portfolio5.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio6.jpg = material\twts_112_punch_brave\images\portfolio\portfolio6.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio7.jpg = material\twts_112_punch_brave\images\portfolio\portfolio7.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio8.jpg = material\twts_112_punch_brave\images\portfolio\portfolio8.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolio9.jpg = material\twts_112_punch_brave\images\portfolio\portfolio9.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolioslide1.jpg = material\twts_112_punch_brave\images\portfolio\portfolioslide1.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolioslide2.jpg = material\twts_112_punch_brave\images\portfolio\portfolioslide2.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolioslide_short1.jpg = material\twts_112_punch_brave\images\portfolio\portfolioslide_short1.jpg
+		material\twts_112_punch_brave\images\portfolio\portfolioslide_short2.jpg = material\twts_112_punch_brave\images\portfolio\portfolioslide_short2.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "icons", "icons", "{5BE8BC3A-1409-4557-9DE0-F83C56396BCD}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\icons\clock.png = material\twts_112_punch_brave\images\icons\clock.png
+		material\twts_112_punch_brave\images\icons\cog.png = material\twts_112_punch_brave\images\icons\cog.png
+		material\twts_112_punch_brave\images\icons\down.png = material\twts_112_punch_brave\images\icons\down.png
+		material\twts_112_punch_brave\images\icons\globe.png = material\twts_112_punch_brave\images\icons\globe.png
+		material\twts_112_punch_brave\images\icons\help.png = material\twts_112_punch_brave\images\icons\help.png
+		material\twts_112_punch_brave\images\icons\ipad.png = material\twts_112_punch_brave\images\icons\ipad.png
+		material\twts_112_punch_brave\images\icons\pdf.png = material\twts_112_punch_brave\images\icons\pdf.png
+		material\twts_112_punch_brave\images\icons\planet.png = material\twts_112_punch_brave\images\icons\planet.png
+		material\twts_112_punch_brave\images\icons\settings.png = material\twts_112_punch_brave\images\icons\settings.png
+		material\twts_112_punch_brave\images\icons\tablet.png = material\twts_112_punch_brave\images\icons\tablet.png
+		material\twts_112_punch_brave\images\icons\time.png = material\twts_112_punch_brave\images\icons\time.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clients", "clients", "{1028F270-338F-4A86-9DED-4A1B1E53950A}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\clients\client1.jpg = material\twts_112_punch_brave\images\clients\client1.jpg
+		material\twts_112_punch_brave\images\clients\client2.jpg = material\twts_112_punch_brave\images\clients\client2.jpg
+		material\twts_112_punch_brave\images\clients\client3.jpg = material\twts_112_punch_brave\images\clients\client3.jpg
+		material\twts_112_punch_brave\images\clients\client4.jpg = material\twts_112_punch_brave\images\clients\client4.jpg
+		material\twts_112_punch_brave\images\clients\client5.jpg = material\twts_112_punch_brave\images\clients\client5.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "blog", "blog", "{F4B96995-0625-4BCC-9FD0-A23B72A5CB8E}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\blog\blogpost1.jpg = material\twts_112_punch_brave\images\blog\blogpost1.jpg
+		material\twts_112_punch_brave\images\blog\blogpost_slide1.jpg = material\twts_112_punch_brave\images\blog\blogpost_slide1.jpg
+		material\twts_112_punch_brave\images\blog\blogpost_slide1_full.jpg = material\twts_112_punch_brave\images\blog\blogpost_slide1_full.jpg
+		material\twts_112_punch_brave\images\blog\blogpost_slide2.jpg = material\twts_112_punch_brave\images\blog\blogpost_slide2.jpg
+		material\twts_112_punch_brave\images\blog\blogpost_slide2_full.jpg = material\twts_112_punch_brave\images\blog\blogpost_slide2_full.jpg
+		material\twts_112_punch_brave\images\blog\blogpost_slide3.jpg = material\twts_112_punch_brave\images\blog\blogpost_slide3.jpg
+		material\twts_112_punch_brave\images\blog\blogpost_slide3_full.jpg = material\twts_112_punch_brave\images\blog\blogpost_slide3_full.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "banner", "banner", "{87B7B3E8-3A3F-46DA-B395-BB93D81E10D4}"
+	ProjectSection(SolutionItems) = preProject
+		material\twts_112_punch_brave\images\banner\banner1.jpg = material\twts_112_punch_brave\images\banner\banner1.jpg
+		material\twts_112_punch_brave\images\banner\banner2.jpg = material\twts_112_punch_brave\images\banner\banner2.jpg
+		material\twts_112_punch_brave\images\banner\banner3.jpg = material\twts_112_punch_brave\images\banner\banner3.jpg
 	EndProjectSection
 EndProject
 Global
@@ -72,6 +447,31 @@ Global
 		{266FAFEF-4A78-4455-9297-3FD440FC2C36} = {672C7E41-ABA2-4401-95A2-A5E41D0AB9C2}
 		{AD7C6167-AE63-4605-BEAA-4F9E75D9B8A2} = {266FAFEF-4A78-4455-9297-3FD440FC2C36}
 		{5E5BB6AE-EE46-449F-B086-87BF31ED1972} = {1566BF8E-339C-4EFF-BCC4-128392E3764D}
+		{043F4498-44B7-41E9-B29F-7636135DA0FE} = {84B57314-56D0-4E01-AE5F-60B00BAAFAEC}
+		{CB6CF165-B511-47DD-8915-BC8B9361ECF8} = {043F4498-44B7-41E9-B29F-7636135DA0FE}
+		{28CBAC43-903A-4EF0-B297-4DE923366EF8} = {043F4498-44B7-41E9-B29F-7636135DA0FE}
+		{131A4760-281B-44F8-8756-BB7F7868F05A} = {043F4498-44B7-41E9-B29F-7636135DA0FE}
+		{AA37B9C1-A597-42E7-980C-1EBEC6A2326C} = {043F4498-44B7-41E9-B29F-7636135DA0FE}
+		{C2F7F802-84F2-48EC-9148-360487EBEFF2} = {84B57314-56D0-4E01-AE5F-60B00BAAFAEC}
+		{7D4C75C3-01F9-4085-BE46-C13C3FABF3D5} = {C2F7F802-84F2-48EC-9148-360487EBEFF2}
+		{1865D914-7043-47A2-800D-36B2FA4856EB} = {C2F7F802-84F2-48EC-9148-360487EBEFF2}
+		{D8E3D71A-DD23-4B78-9842-050ADFBA71EE} = {C2F7F802-84F2-48EC-9148-360487EBEFF2}
+		{EABBACD6-ECC9-4422-8214-E54DCFC883BC} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{0E5D8DAB-D0CE-4E48-8B11-6719D7498242} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{D9D9358C-4218-4549-A6E2-C8A36E743E48} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{E14C6CF4-2C87-4CCB-90B4-5A8864321803} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{76EE7787-C89A-4722-947A-044647C07848} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{0D027DA1-8E17-438B-8510-EC6369285A87} = {76EE7787-C89A-4722-947A-044647C07848}
+		{37374D0C-5EB0-424E-B3CC-ED2BA678EDBC} = {76EE7787-C89A-4722-947A-044647C07848}
+		{9FEDAF42-DD87-49CA-8C49-5339E8FEE167} = {76EE7787-C89A-4722-947A-044647C07848}
+		{D17E61D4-3E5F-4148-AC85-DFA9255FDB50} = {76EE7787-C89A-4722-947A-044647C07848}
+		{6DFEA8BF-2611-4979-B817-8EB9ED20E6D3} = {76EE7787-C89A-4722-947A-044647C07848}
+		{BBDBC5AB-73A2-4273-938D-360D4F503464} = {76EE7787-C89A-4722-947A-044647C07848}
+		{B9BCB6FF-CE96-4085-ABD4-43FFA9FF7144} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{5BE8BC3A-1409-4557-9DE0-F83C56396BCD} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{1028F270-338F-4A86-9DED-4A1B1E53950A} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{F4B96995-0625-4BCC-9FD0-A23B72A5CB8E} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{87B7B3E8-3A3F-46DA-B395-BB93D81E10D4} = {1865D914-7043-47A2-800D-36B2FA4856EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F839095C-F864-436D-8530-9AD6B36933C4}
