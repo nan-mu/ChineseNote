@@ -5,12 +5,17 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chinese", "chinese", "{95860591-16A4-4032-A614-2E00305B4384}"
 	ProjectSection(SolutionItems) = preProject
-		subject\chinese\chineseNote.css = subject\chinese\chineseNote.css
+		subject\chinese\blog-argumentation.html = subject\chinese\blog-argumentation.html
+		subject\chinese\blog-documentation.html = subject\chinese\blog-documentation.html
+		subject\chinese\blog-listing.html = subject\chinese\blog-listing.html
+		subject\chinese\blog-narration.html = subject\chinese\blog-narration.html
+		subject\chinese\blog-prototype.html = subject\chinese\blog-prototype.html
 		subject\chinese\chineseNote.html = subject\chinese\chineseNote.html
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "navigationPage", "navigationPage", "{436E00B4-0A23-4856-871A-7FDB644D434E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "navigation", "navigation", "{436E00B4-0A23-4856-871A-7FDB644D434E}"
 	ProjectSection(SolutionItems) = preProject
+		navigation\index.html = navigation\index.html
 		navigation\navigation.css = navigation\navigation.css
 		navigation\navigation.html = navigation\navigation.html
 	EndProjectSection
@@ -438,6 +443,81 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "banner", "banner", "{87B7B3
 		material\twts_112_punch_brave\images\banner\banner3.jpg = material\twts_112_punch_brave\images\banner\banner3.jpg
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{14C3D093-0F3D-445A-AA57-7B6D1C9352E4}"
+	ProjectSection(SolutionItems) = preProject
+		subject\chinese\css\animsition.min.css = subject\chinese\css\animsition.min.css
+		subject\chinese\css\bootstrap.min.css = subject\chinese\css\bootstrap.min.css
+		subject\chinese\css\chineseNote.css = subject\chinese\css\chineseNote.css
+		subject\chinese\css\font-awesome.min.css = subject\chinese\css\font-awesome.min.css
+		subject\chinese\css\fontello.css = subject\chinese\css\fontello.css
+		subject\chinese\css\owl.carousel.css = subject\chinese\css\owl.carousel.css
+		subject\chinese\css\owl.theme.css = subject\chinese\css\owl.theme.css
+		subject\chinese\css\style.css = subject\chinese\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{5241F73A-4C6F-4184-9838-9CDED890F650}"
+	ProjectSection(SolutionItems) = preProject
+		subject\chinese\js\accordion.js = subject\chinese\js\accordion.js
+		subject\chinese\js\animsition-script.js = subject\chinese\js\animsition-script.js
+		subject\chinese\js\animsition.js = subject\chinese\js\animsition.js
+		subject\chinese\js\back-to-top.js = subject\chinese\js\back-to-top.js
+		subject\chinese\js\blog-carousel.js = subject\chinese\js\blog-carousel.js
+		subject\chinese\js\bootstrap.min.js = subject\chinese\js\bootstrap.min.js
+		subject\chinese\js\jquery.min.js = subject\chinese\js\jquery.min.js
+		subject\chinese\js\jquery.sticky.js = subject\chinese\js\jquery.sticky.js
+		subject\chinese\js\menumaker.js = subject\chinese\js\menumaker.js
+		subject\chinese\js\owl.carousel.min.js = subject\chinese\js\owl.carousel.min.js
+		subject\chinese\js\service-carousel.js = subject\chinese\js\service-carousel.js
+		subject\chinese\js\slider-carousel.js = subject\chinese\js\slider-carousel.js
+		subject\chinese\js\sticky-header.js = subject\chinese\js\sticky-header.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{9D8B4F62-11BC-4DB2-A5F1-23B0387AD40A}"
+	ProjectSection(SolutionItems) = preProject
+		material\cpts_1354_cae\js\accordion.js = material\cpts_1354_cae\js\accordion.js
+		material\cpts_1354_cae\js\animsition-script.js = material\cpts_1354_cae\js\animsition-script.js
+		material\cpts_1354_cae\js\animsition.js = material\cpts_1354_cae\js\animsition.js
+		material\cpts_1354_cae\js\back-to-top.js = material\cpts_1354_cae\js\back-to-top.js
+		material\cpts_1354_cae\js\blog-carousel.js = material\cpts_1354_cae\js\blog-carousel.js
+		material\cpts_1354_cae\js\bootstrap.min.js = material\cpts_1354_cae\js\bootstrap.min.js
+		material\cpts_1354_cae\js\jquery.min.js = material\cpts_1354_cae\js\jquery.min.js
+		material\cpts_1354_cae\js\jquery.sticky.js = material\cpts_1354_cae\js\jquery.sticky.js
+		material\cpts_1354_cae\js\menumaker.js = material\cpts_1354_cae\js\menumaker.js
+		material\cpts_1354_cae\js\owl.carousel.min.js = material\cpts_1354_cae\js\owl.carousel.min.js
+		material\cpts_1354_cae\js\service-carousel.js = material\cpts_1354_cae\js\service-carousel.js
+		material\cpts_1354_cae\js\slider-carousel.js = material\cpts_1354_cae\js\slider-carousel.js
+		material\cpts_1354_cae\js\sticky-header.js = material\cpts_1354_cae\js\sticky-header.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{B46707EF-CDD5-4CB9-9C19-E16E867E7281}"
+	ProjectSection(SolutionItems) = preProject
+		material\cpts_1354_cae\css\animsition.min.css = material\cpts_1354_cae\css\animsition.min.css
+		material\cpts_1354_cae\css\bootstrap.min.css = material\cpts_1354_cae\css\bootstrap.min.css
+		material\cpts_1354_cae\css\chineseNote.css = material\cpts_1354_cae\css\chineseNote.css
+		material\cpts_1354_cae\css\font-awesome.min.css = material\cpts_1354_cae\css\font-awesome.min.css
+		material\cpts_1354_cae\css\fontello.css = material\cpts_1354_cae\css\fontello.css
+		material\cpts_1354_cae\css\owl.carousel.css = material\cpts_1354_cae\css\owl.carousel.css
+		material\cpts_1354_cae\css\owl.theme.css = material\cpts_1354_cae\css\owl.theme.css
+		material\cpts_1354_cae\css\style.css = material\cpts_1354_cae\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{5A603CA3-8206-42A1-B4CA-AF4B47501B73}"
+	ProjectSection(SolutionItems) = preProject
+		material\cpts_1354_cae\fonts\fontawesome-webfont.eot = material\cpts_1354_cae\fonts\fontawesome-webfont.eot
+		material\cpts_1354_cae\fonts\fontawesome-webfont.svg = material\cpts_1354_cae\fonts\fontawesome-webfont.svg
+		material\cpts_1354_cae\fonts\fontawesome-webfont.ttf = material\cpts_1354_cae\fonts\fontawesome-webfont.ttf
+		material\cpts_1354_cae\fonts\fontawesome-webfont.woff = material\cpts_1354_cae\fonts\fontawesome-webfont.woff
+		material\cpts_1354_cae\fonts\FontAwesome.otf = material\cpts_1354_cae\fonts\FontAwesome.otf
+		material\cpts_1354_cae\fonts\fontello.eot = material\cpts_1354_cae\fonts\fontello.eot
+		material\cpts_1354_cae\fonts\fontello.ttf = material\cpts_1354_cae\fonts\fontello.ttf
+		material\cpts_1354_cae\fonts\fontello.woff = material\cpts_1354_cae\fonts\fontello.woff
+		material\cpts_1354_cae\fonts\fontello.woff2 = material\cpts_1354_cae\fonts\fontello.woff2
+		material\cpts_1354_cae\fonts\glyphicons-halflings-regular.eot = material\cpts_1354_cae\fonts\glyphicons-halflings-regular.eot
+		material\cpts_1354_cae\fonts\glyphicons-halflings-regular.svg = material\cpts_1354_cae\fonts\glyphicons-halflings-regular.svg
+		material\cpts_1354_cae\fonts\glyphicons-halflings-regular.ttf = material\cpts_1354_cae\fonts\glyphicons-halflings-regular.ttf
+		material\cpts_1354_cae\fonts\glyphicons-halflings-regular.woff = material\cpts_1354_cae\fonts\glyphicons-halflings-regular.woff
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -472,6 +552,11 @@ Global
 		{1028F270-338F-4A86-9DED-4A1B1E53950A} = {1865D914-7043-47A2-800D-36B2FA4856EB}
 		{F4B96995-0625-4BCC-9FD0-A23B72A5CB8E} = {1865D914-7043-47A2-800D-36B2FA4856EB}
 		{87B7B3E8-3A3F-46DA-B395-BB93D81E10D4} = {1865D914-7043-47A2-800D-36B2FA4856EB}
+		{14C3D093-0F3D-445A-AA57-7B6D1C9352E4} = {95860591-16A4-4032-A614-2E00305B4384}
+		{5241F73A-4C6F-4184-9838-9CDED890F650} = {95860591-16A4-4032-A614-2E00305B4384}
+		{9D8B4F62-11BC-4DB2-A5F1-23B0387AD40A} = {436E00B4-0A23-4856-871A-7FDB644D434E}
+		{B46707EF-CDD5-4CB9-9C19-E16E867E7281} = {436E00B4-0A23-4856-871A-7FDB644D434E}
+		{5A603CA3-8206-42A1-B4CA-AF4B47501B73} = {436E00B4-0A23-4856-871A-7FDB644D434E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F839095C-F864-436D-8530-9AD6B36933C4}
