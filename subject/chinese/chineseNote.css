@@ -5,8 +5,21 @@
     background-color: rgb(255,222,227);
 }
 
-ol {
+li ol {
+    /*序号风格******************/
     list-style-type: lower-roman;
+}
+
+[title] {
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: double;
+    border-color: #fb9d9d;
+}
+
+[href] {
+    border-bottom-style: none;
 }
 
 .chunk { /*body div*/
@@ -25,6 +38,12 @@ ol {
     background-color: white;
 }
 
+.keyPoint {
+    /*字体颜色*******************/
+    color: red;
+}
+
+
 #menu {
     /*外边距*********************/
     margin-bottom: 10px;
@@ -34,7 +53,7 @@ ol {
     height: 48px;
 }
 
-    #menu ul li {
+    /*#menu ul li {
         list-style: none;
         position: absolute;
     }
@@ -72,4 +91,4 @@ ol {
 #w {
     left: 923px;
     width: 177px;
-}
+}*/
