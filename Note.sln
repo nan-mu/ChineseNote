@@ -6,10 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chinese", "chinese", "{95860591-16A4-4032-A614-2E00305B4384}"
 	ProjectSection(SolutionItems) = preProject
 		subject\chinese\blog-argumentation.html = subject\chinese\blog-argumentation.html
+		subject\chinese\blog-chinese.html = subject\chinese\blog-chinese.html
 		subject\chinese\blog-documentation.html = subject\chinese\blog-documentation.html
-		subject\chinese\blog-listing.html = subject\chinese\blog-listing.html
 		subject\chinese\blog-narration.html = subject\chinese\blog-narration.html
 		subject\chinese\blog-prototype.html = subject\chinese\blog-prototype.html
+		subject\chinese\blog-writing.html = subject\chinese\blog-writing.html
 		subject\chinese\chineseNote.html = subject\chinese\chineseNote.html
 	EndProjectSection
 EndProject
