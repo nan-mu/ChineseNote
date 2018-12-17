@@ -1,16 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chinese", "chinese", "{95860591-16A4-4032-A614-2E00305B4384}"
 	ProjectSection(SolutionItems) = preProject
-		subject\chinese\blog-argumentation.html = subject\chinese\blog-argumentation.html
+		subject\chinese\blog-chinese-argumentation.html = subject\chinese\blog-chinese-argumentation.html
+		subject\chinese\blog-chinese-documentation.html = subject\chinese\blog-chinese-documentation.html
+		subject\chinese\blog-chinese-narration.html = subject\chinese\blog-chinese-narration.html
+		subject\chinese\blog-chinese-people-SuShi.html = subject\chinese\blog-chinese-people-SuShi.html
+		subject\chinese\blog-chinese-writing.html = subject\chinese\blog-chinese-writing.html
 		subject\chinese\blog-chinese.html = subject\chinese\blog-chinese.html
-		subject\chinese\blog-documentation.html = subject\chinese\blog-documentation.html
-		subject\chinese\blog-narration.html = subject\chinese\blog-narration.html
 		subject\chinese\blog-prototype.html = subject\chinese\blog-prototype.html
-		subject\chinese\blog-writing.html = subject\chinese\blog-writing.html
 		subject\chinese\chineseNote.html = subject\chinese\chineseNote.html
 	EndProjectSection
 EndProject
@@ -25,6 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "subject", "subject", "{672C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "physics", "physics", "{266FAFEF-4A78-4455-9297-3FD440FC2C36}"
 	ProjectSection(SolutionItems) = preProject
+		subject\physics\blog-physics.html = subject\physics\blog-physics.html
 		subject\physics\physicsNote.css = subject\physics\physicsNote.css
 		subject\physics\physicsNote.html = subject\physics\physicsNote.html
 		subject\physics\physicsNote.js = subject\physics\physicsNote.js
