@@ -917,7 +917,6 @@ top bar
             content: "\f107";
             -webkit-transition: all .25s ease;
             -moz-transition: all .25s ease;
-            -ms-transition: all .25s ease;
             -o-transition: all .25s ease;
             transition: all .25s ease;
         }
@@ -936,7 +935,6 @@ top bar
         height: 0;
         -webkit-transition: all .25s ease;
         -moz-transition: all .25s ease;
-        -ms-transition: all .25s ease;
         -o-transition: all .25s ease;
         transition: all .25s ease;
     }
@@ -1011,7 +1009,6 @@ top bar
         content: '';
         -webkit-transition: all .25s ease;
         -moz-transition: all .25s ease;
-        -ms-transition: all .25s ease;
         -o-transition: all .25s ease;
         transition: all .25s ease;
     }
@@ -2363,8 +2360,6 @@ a.expand {
     font-size: 30px;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
-    -ms-border-radius: 30px;
-    -o-border-radius: 30px;
     border-radius: 30px;
 }
 
@@ -2858,4 +2853,7 @@ Error-page
     .search-nav {
         display: none;
     }
+}
+.sample-picture {
+    max-width:100%;
 }

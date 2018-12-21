@@ -521,6 +521,53 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{5A603CA3
 		material\cpts_1354_cae\fonts\glyphicons-halflings-regular.woff = material\cpts_1354_cae\fonts\glyphicons-halflings-regular.woff
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlogMaker", "BlogMaker", "{8E06FC54-D9CA-41DB-9244-2A46605C34D5}"
+	ProjectSection(SolutionItems) = preProject
+		BlogMaker\BlogMaker.cpp = BlogMaker\BlogMaker.cpp
+		BlogMaker\BlogMaker.vcxproj = BlogMaker\BlogMaker.vcxproj
+		BlogMaker\BlogMaker.vcxproj.filters = BlogMaker\BlogMaker.vcxproj.filters
+		BlogMaker\BlogMaker.vcxproj.user = BlogMaker\BlogMaker.vcxproj.user
+		BlogMaker\pch.cpp = BlogMaker\pch.cpp
+		BlogMaker\pch.h = BlogMaker\pch.h
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{DB5AF40B-3892-4A06-A585-62447EB7448D}"
+	ProjectSection(SolutionItems) = preProject
+		subject\chinese\images\blog-img-1.jpg = subject\chinese\images\blog-img-1.jpg
+		subject\chinese\images\blog-img-2.jpg = subject\chinese\images\blog-img-2.jpg
+		subject\chinese\images\blog-img.jpg = subject\chinese\images\blog-img.jpg
+		subject\chinese\images\blog-post-1.jpg = subject\chinese\images\blog-post-1.jpg
+		subject\chinese\images\blog-post-2.jpg = subject\chinese\images\blog-post-2.jpg
+		subject\chinese\images\blog-post-3.jpg = subject\chinese\images\blog-post-3.jpg
+		subject\chinese\images\blog-post-4.jpg = subject\chinese\images\blog-post-4.jpg
+		subject\chinese\images\blog-post-5.jpg = subject\chinese\images\blog-post-5.jpg
+		subject\chinese\images\car.svg = subject\chinese\images\car.svg
+		subject\chinese\images\cd-top-arrow.svg = subject\chinese\images\cd-top-arrow.svg
+		subject\chinese\images\credit-card.svg = subject\chinese\images\credit-card.svg
+		subject\chinese\images\cta-img.jpg = subject\chinese\images\cta-img.jpg
+		subject\chinese\images\ft-logo.png = subject\chinese\images\ft-logo.png
+		subject\chinese\images\loan.svg = subject\chinese\images\loan.svg
+		subject\chinese\images\logo-1.jpg = subject\chinese\images\logo-1.jpg
+		subject\chinese\images\logo-2.jpg = subject\chinese\images\logo-2.jpg
+		subject\chinese\images\logo-3.jpg = subject\chinese\images\logo-3.jpg
+		subject\chinese\images\logo-4.jpg = subject\chinese\images\logo-4.jpg
+		subject\chinese\images\logo-5.jpg = subject\chinese\images\logo-5.jpg
+		subject\chinese\images\logo.png = subject\chinese\images\logo.png
+		subject\chinese\images\mortgage.svg = subject\chinese\images\mortgage.svg
+		subject\chinese\images\page-header.jpg = subject\chinese\images\page-header.jpg
+		subject\chinese\images\piggy-bank.svg = subject\chinese\images\piggy-bank.svg
+		subject\chinese\images\recent-img-1.jpg = subject\chinese\images\recent-img-1.jpg
+		subject\chinese\images\recent-img-2.jpg = subject\chinese\images\recent-img-2.jpg
+		subject\chinese\images\recent-img-3.jpg = subject\chinese\images\recent-img-3.jpg
+		subject\chinese\images\slider-1.jpg = subject\chinese\images\slider-1.jpg
+		subject\chinese\images\slider-2.jpg = subject\chinese\images\slider-2.jpg
+		subject\chinese\images\slider-3.jpg = subject\chinese\images\slider-3.jpg
+		subject\chinese\images\testimonial-img-1.jpg = subject\chinese\images\testimonial-img-1.jpg
+		subject\chinese\images\testimonial-img-2.jpg = subject\chinese\images\testimonial-img-2.jpg
+		subject\chinese\images\testimonial-img.jpg = subject\chinese\images\testimonial-img.jpg
+		subject\chinese\images\获见帖.jpg = subject\chinese\images\获见帖.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -560,6 +607,7 @@ Global
 		{9D8B4F62-11BC-4DB2-A5F1-23B0387AD40A} = {436E00B4-0A23-4856-871A-7FDB644D434E}
 		{B46707EF-CDD5-4CB9-9C19-E16E867E7281} = {436E00B4-0A23-4856-871A-7FDB644D434E}
 		{5A603CA3-8206-42A1-B4CA-AF4B47501B73} = {436E00B4-0A23-4856-871A-7FDB644D434E}
+		{DB5AF40B-3892-4A06-A585-62447EB7448D} = {95860591-16A4-4032-A614-2E00305B4384}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F839095C-F864-436D-8530-9AD6B36933C4}
