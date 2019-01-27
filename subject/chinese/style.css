@@ -1,11 +1,14 @@
 ﻿@charset "utf-8";
-
+@import "../../css/bootstrap.min.css";
+@import "../../css/font-awesome.min.css";
+@import "../../css/fontello.css";
+@import "../../css/owl.carousel.css";
+@import "../../css/owl.theme.css";
+@import "../../css/css/animsition.min.css";
 /* CSS Document */
-
 /*-----------------------------------
 General css class
 -----------------------------------*/
-
 body {
     font-size: 15px;
     font-family: 'Poppins', sans-serif;
@@ -1598,7 +1601,7 @@ index-1
     padding: 175px 0px 80px;
     min-height: 410px;
     border: none;
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), rgba(0, 0, 0, 0.2) url(../images/page-header.jpg) no-repeat center;/*背景图片*/
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), rgba(0, 0, 0, 0.2) url(images/page-header.jpg) no-repeat center; /*背景图片*/
 }
 
 .page-title {
