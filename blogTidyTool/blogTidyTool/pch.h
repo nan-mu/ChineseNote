@@ -17,6 +17,6 @@
 #include <stdint.h>
 #include <fstream>
 #include "dirent-master/include/dirent.h"
-
+#include "tinyxml2-master\tinyxml2.h"
 
 #endif //PCH_H
