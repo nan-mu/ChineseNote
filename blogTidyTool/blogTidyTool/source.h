@@ -8,7 +8,8 @@ using namespace tinyxml2;
 class Source{
 	public:
 		Source(){
-			
+			char  szBuffer[500];
+
 		};
 		string getPath(char order) {
 			switch (order) {
@@ -29,6 +30,7 @@ class Source{
 		const string outputPath = "output";
 		const string bufferPath = "buffer";
 		const string logPath = "log";
+		const string user;
 };
 
 #endif
