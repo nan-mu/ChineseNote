@@ -16,6 +16,9 @@
 #include <cstring>
 #include <stdint.h>
 #include <fstream>
+#include <array>
+#include <vector>
+#include < io.h>
 #include "dirent-master/include/dirent.h"
 #include "tinyxml2-master\tinyxml2.h"
 

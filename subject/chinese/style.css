@@ -6,12 +6,32 @@
 @import "../../css/owl.theme.css";
 @import "../../css/css/animsition.min.css";
 /* CSS Document */
+/*--------chinese note narration-----------*/
+.mainTitle {
+    font-family: 等线;
+    font-size: 24pt;
+}
+
+.lists {
+    font-family: 等线 Light;
+    font-size: 18pt;
+}
+
+.lists.s1{
+    font-family: 等线 Light;
+    font-size: 16pt;
+}
+
+.lists.s2{
+    font-family: 等线 Light;
+    font-size: 14pt;
+}
 /*-----------------------------------
 General css class
 -----------------------------------*/
 body {
     font-size: 15px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif,等线 Light;
     line-height: 1.4;
     color: #778191;
     background-color: #f4f6f8;

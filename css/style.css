@@ -11,7 +11,7 @@ General css class
 -----------------------------------*/
 body {
     font-size: 15px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif,等线 Light;
     line-height: 1.4;
     color: #778191;
     background-color: #f4f6f8;

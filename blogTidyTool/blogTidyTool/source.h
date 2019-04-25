@@ -8,7 +8,6 @@ using namespace tinyxml2;
 class Source{
 	public:
 		Source(){
-			char  szBuffer[500];
 
 		};
 		string getPath(char order) {

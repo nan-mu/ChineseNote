@@ -21,9 +21,6 @@
     <ClInclude Include="source.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="tinyxml2-master\tinyxml2.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -38,10 +35,5 @@
     <ClCompile Include="tinyxml2-master\tinyxml2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Xml Include="..\Debug\configurationFile.xml">
-      <Filter>资源文件</Filter>
-    </Xml>
   </ItemGroup>
 </Project>

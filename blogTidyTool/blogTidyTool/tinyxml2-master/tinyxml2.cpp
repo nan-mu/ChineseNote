@@ -22,6 +22,7 @@ distribution.
 */
 
 #include "tinyxml2.h"
+#include "pch.h"
 
 #include <new>		// yes, this one new style header, is in the Android SDK.
 #if defined(ANDROID_NDK) || defined(__BORLANDC__) || defined(__QNXNTO__)
@@ -2835,3 +2836,4 @@ bool XMLPrinter::Visit( const XMLUnknown& unknown )
 }
 
 }   // namespace tinyxml2
+//include "pch.h"

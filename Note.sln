@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28407.52
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chinese", "chinese", "{95860591-16A4-4032-A614-2E00305B4384}"
 	ProjectSection(SolutionItems) = preProject
@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chinese", "chinese", "{9586
 		subject\chinese\blog-chinese-writing.html = subject\chinese\blog-chinese-writing.html
 		subject\chinese\blog-chinese.html = subject\chinese\blog-chinese.html
 		subject\chinese\blog-prototype.html = subject\chinese\blog-prototype.html
+		subject\chinese\bolg-chinese-narra ion.html = subject\chinese\bolg-chinese-narra ion.html
+		subject\chinese\bolg-chinese-narration.html = subject\chinese\bolg-chinese-narration.html
 		subject\chinese\chineseNote.html = subject\chinese\chineseNote.html
 	EndProjectSection
 EndProject
